@@ -91,4 +91,4 @@ Para visualizar o banco, acesse o **RedisInsight** em http://localhost:8001.
 
 ## Vídeo de apresentação
 
-_(link do vídeo)_
+[Assistir no YouTube](https://youtu.be/VP7TDv4gBBI)

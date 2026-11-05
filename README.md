@@ -5,10 +5,6 @@ Aluno: Matheus Di Sabatino Pires
 
 Aplicação de linha de comando (CLI) em Python que faz o CRUD de tarefas usando o **Redis**, um banco de dados NoSQL do tipo **chave-valor** que armazena os dados em memória.
 
-## Vídeo de apresentação
-
-_(link do vídeo)_
-
 ## Por que Redis?
 
 - No projeto API, meu grupo usa **PostgreSQL** (relacional) e **MongoDB** (NoSQL de documentos). Escolhi o Redis para estudar um modelo NoSQL diferente: o **chave-valor**.
@@ -92,3 +88,7 @@ Para visualizar o banco, acesse o **RedisInsight** em http://localhost:8001.
 - **Consistência depende do código:** se o programa esquecer de atualizar um índice, os dados ficam desencontrados.
 - **Memória:** todos os dados precisam caber na RAM, o que fica caro com grandes volumes.
 - **Persistência limitada:** o Redis salva em disco de tempos em tempos, então pode perder os dados mais recentes se o servidor cair.
+
+## Vídeo de apresentação
+
+_(link do vídeo)_
